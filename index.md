@@ -1,7 +1,5 @@
-# Eryl and Andy's 25th Wedding Aniversary
+# Why
 
-## Why
+# Where
 
-## Where
-
-## What
+# What
